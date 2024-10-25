@@ -27,6 +27,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white);
+![Sql](https://www.iconfinder.com/icons/1012821/code_development_logo_mysql_icon);
+![Java]([https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white](https://www.iconfinder.com/icons/4373217/java_logo_logos_icon));
+![React]([https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png));
+
 
 
 
